@@ -67,7 +67,6 @@ class TikTokVideoDownloader:
         await browser.close()
     
     def download_videos_selenium(self, driver):
-        #comment_scraper_url = 'https://ssstik.io/en'
         # Specify Selenium Driver
         if driver == 'chrome':
             CHROMEDRIVER_PATH = ""
