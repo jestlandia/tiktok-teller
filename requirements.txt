@@ -1,0 +1,14 @@
+opencv-python
+keyboard
+numpy
+openai-whisper
+pandas
+pydub
+pyppeteer
+regex
+selenium
+spacy
+spacytextblob
+SpeechRecognition
+tqdm
+unittest
