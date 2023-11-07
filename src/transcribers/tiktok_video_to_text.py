@@ -94,11 +94,6 @@ class SpeechConverter:
     def save_as_csv(self, text, output_file):
         df = pd.DataFrame(text)
         df.to_csv(f"{output_file}", index=False)
-        # with open(output_file, 'w', newline='') as csv_file:
-        #     csv_writer = csv.writer(csv_file)
-        #     csv_writer.writerow(['Text'])
-        #     for item in text:
-        #         csv_writer.writerow([item])
         print(f"Data saved as CSV: {output_file}.\n")
     
     def extract_and_transform_speech(self): 
