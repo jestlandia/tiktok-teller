@@ -58,7 +58,7 @@ class SentimentAnalyzer:
         sia = SentimentIntensityAnalyzer()
         sentiment_score = sia.polarity_scores(sentence)['compound']
 
-        emotion_words = emotion_adjs + emotion_verbs + emotion_nouns #['happy', 'sad', 'angry', 'excited', 'fearful', 'hate']
+        emotion_words = emotion_adjs + emotion_verbs + emotion_nouns 
         emotion_found = any(word in words for word in emotion_words)
 
         derogatory_phrases = self.derogatory_word_weights.keys()
