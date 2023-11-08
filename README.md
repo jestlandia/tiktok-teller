@@ -35,3 +35,12 @@ pip install -r requirements.txt
 ```
 python src/tiktok-teller.py
 ```
+
+--- 
+
+### Example 
+
+See [example_data](https://github.com/jestlandia/tiktok-teller/tree/main/example_data) for more information.
+
+
+
