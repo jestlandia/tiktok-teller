@@ -36,6 +36,14 @@ pip install -r requirements.txt
 python src/tiktok-teller.py
 ```
 
+---
+
+**Google Vignette Ads are blocking automatic download of Tiktok videos at this time. As a workaround, please use one of the following options while I work on a patch:**
+- https://snaptik.app/
+- https://ssstik.io/en
+
+Thanks!
+
 --- 
 
 ### Example 
