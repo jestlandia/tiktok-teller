@@ -42,6 +42,6 @@ python src/tiktok-teller.py
 
 See [example_data](https://github.com/jestlandia/tiktok-teller/tree/main/example_data) for more information.
 
-[![Demo Face Recognition](https://github.com/jestlandia/tiktok-teller/blob/main/example_data/example_output.png)](https://github.com/jestlandia/tiktok-teller/blob/main/example_data/Snaptik.app_7261314534885870894.cv_output.mp4)
+![Example Face Recognition](https://github.com/jestlandia/tiktok-teller/blob/main/example_data/Snaptik.app_7261314534885870894.cv__output.gif)
 
 
