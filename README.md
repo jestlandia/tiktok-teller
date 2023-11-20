@@ -1,15 +1,23 @@
 <h2 align='center'>TikTok-Teller: A TikTok Video Scraping and Content Analysis Tool</h2>
 
 
-<p align='center'><img src='https://github.com/jestlandia/tiktok-teller/blob/main/tiktok-teller.png' alt="Tiktok-Teller" width='50%;' ></p>
+<p align='center'><img src='https://github.com/jestlandia/tiktok-teller/blob/main/tiktok-teller.png' alt="Tiktok-Teller" width='40%;' ></p>
 
-#### Description:
+<br>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/jestlandia/tiktok-teller)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jestlandia/tiktok-teller)
+![GitHub stars](https://img.shields.io/github/stars/jestlandia/tiktok-teller?style=social)
+
+---
+
+### 🛡️ About
 
 Search & download Tiktok videos by username and/or video tag, and analyze video contents. Transcribe video speech to text and perform NLP analysis tasks (e.g., keyword and topic discovery; emotion/sentiment analysis). Isolate audio signal and perform signal processing analysis tasks (e.g., pitch, prosody and sentiment analysis). Isolate visual stream and perform image tasks (e.g., object detection; face detection).
 
 ---
 
-### Installation & Use
+### 🚀 Installation & Use
 
 - Clone or download .zip of `tiktok-teller` python package.
 ```
@@ -38,7 +46,7 @@ python src/tiktok-teller.py
 
 ---
 
-**Google Vignette Ads are blocking automatic download of Tiktok videos at this time. As a workaround, please use one of the following options while I work on a patch:**
+⚠️ **Google Vignette Ads are blocking automatic download of Tiktok videos at this time. As a workaround, please use one of the following options while I work on a patch:**
 - https://snaptik.app/
 - https://ssstik.io/en
 
@@ -46,7 +54,7 @@ Thanks!
 
 --- 
 
-### Example 
+### 🌟 Example 
 
 See [example_data](https://github.com/jestlandia/tiktok-teller/tree/main/example_data) for more information.
 
